@@ -1,5 +1,5 @@
 {
-  "name": "gkd-cli",
+  "name": "gkd-run",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/lhxktxwd/gkd-cli.git"
+    "url": "https://github.com/lhxktxwd/gkd-run.git"
   },
   "keywords": [],
   "author": "",
