@@ -5,8 +5,9 @@
 ## 安装
 
 ```shell
-npm i gkd-run -g
+$ npm i gkd-run -g
 ```
+## 使用
 
 ```shell
 gkd init <project-name> 
