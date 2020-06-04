@@ -1,9 +1,9 @@
-# gkd-cli（搞快点）
+# gkd-run（搞快点）
 
 ## 安装
 
 ```shell
-npm i gkd-cli -g
+npm i gkd-run -g
 ```
 
 ```shell
